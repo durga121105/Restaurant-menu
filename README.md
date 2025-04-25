@@ -1,16 +1,67 @@
-# demo_app1
+# 🍽️ Restaurant Menu App
 
-A new Flutter project.
+A simple and elegant **Flutter app** that displays a list of menu items for a restaurant. Each item includes a name, description, and price, styled with shadows and clean UI elements.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Neatly displayed menu items with card-like containers
+- Modern UI with box shadows and rounded corners
+- Menu includes dishes like:
+  - Chicken Noodles
+  - Chicken Fried Rice
+  - Chicken Sandwich
+  - Shawarma
+  - Veg Noodles
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/restaurant-menu-app.git
+   cd restaurant-menu-app
+   ```
+
+2. **Run the app**
+   ```bash
+   flutter pub get
+   flutter run
+   ```
+
+---
+
+## 📂 File Structure
+
+```
+lib/
+└── main.dart        # Main application code
+```
+
+---
+
+## 📸 Preview
+
+*(Add screenshots or screen recordings here to show how your UI looks)*
+
+---
+
+## ✨ Author
+
+**Durgavathi**  
+GitHub: [durga121105](https://github.com/durga121105)
+
+---
+
+## 📝 License
+
+This project is for educational and showcase purposes.
